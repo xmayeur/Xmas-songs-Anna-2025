@@ -1,0 +1,9 @@
+### Lilypond template
+*.pdf
+*.ps
+*.midi
+*.mid
+*.log
+*~
+### Editor
+.idea/**

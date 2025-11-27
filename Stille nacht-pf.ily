@@ -101,7 +101,7 @@ lower = \relative c'' {
   g2.
   d4 e d
 
-  c2. c g' c,4 e c c2. c g'
+  c2. c g' d4 e d c2. c g'
   d4 e d
 
   d2. d2 c4 b2 a4 g2 d'4 g2. d g,
@@ -117,7 +117,7 @@ lower = \relative c'' {
   g2.
   d4 e d
 
-  c2. c g' c,4 e c c2. c g'
+  c2. c g' d4 e d c2. c g'
   d4 e d
 
   d2. d2 c4 b2 a4 g2 d'4 g2. d g,
